@@ -52,7 +52,7 @@ class _MyAppState extends State<MyApp> {
                     IconButton(
                       icon: Icon(
                         CustomIcons.menu,
-                        color: Colors.white,
+                        color: Colors.blue,
                         size: 30.0,
                       ),
                       onPressed: () {},
